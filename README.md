@@ -138,6 +138,7 @@ public void actionPerformed(ActionEvent e) {
                         "您还没有设置课程！","错误提示！",
                         JOptionPane.ERROR_MESSAGE);
             }}}}  程序截图   
+            https://github.com/Leonyyx1/-/blob/master/1.png
 https://github.com/Leonyyx1/-/blob/master/%5BNYRHX(_%7B0HXVDQ0S%25%7BBK76.png
 https://github.com/Leonyyx1/-/blob/master/%7D%5B3ZHN0QEJVKNGIQ%5D%7DQCIVE.png
 https://github.com/Leonyyx1/-/blob/master/%7BSR%7D%5BU%24KN9IURVV~%605(0FVN.png
