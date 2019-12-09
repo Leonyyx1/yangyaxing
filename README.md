@@ -138,9 +138,9 @@ public void actionPerformed(ActionEvent e) {
                         "您还没有设置课程！","错误提示！",
                         JOptionPane.ERROR_MESSAGE);
             }}}}  程序截图   
-https://github.com/Leonyyx1/yangyaxing/blob/master/%5BNYRHX(_%7B0HXVDQ0S%25%7BBK76.png
-https://github.com/Leonyyx1/yangyaxing/blob/master/%5BNYRHX(_%7B0HXVDQ0S%25%7BBK76.png
-https://github.com/Leonyyx1/yangyaxing/blob/master/%7D%5B3ZHN0QEJVKNGIQ%5D%7DQCIVE.png      
+https://github.com/Leonyyx1/-/blob/master/%5BNYRHX(_%7B0HXVDQ0S%25%7BBK76.png
+https://github.com/Leonyyx1/-/blob/master/%7D%5B3ZHN0QEJVKNGIQ%5D%7DQCIVE.png
+https://github.com/Leonyyx1/-/blob/master/%7BSR%7D%5BU%24KN9IURVV~%605(0FVN.png
 编程感想       本次实验是综合性实验涉及面比较广，GUI界面设计，异常处理，又要有异常处理，学生的注册，作为没有c语言基础的初学者，只能根据教材和博客上别人的代码参考，但也终于是慢慢扣了出来，虽然还是没有完成课程的新加 本次实验对我的编程基础有了很大的提高 收获了很多 。 
 
 
